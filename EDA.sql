@@ -1,4 +1,11 @@
--- Exploratory Data Analysis
+/*
+=======================================================================
+Exploratory Data Analysis
+=======================================================================
+Script Purpose:
+WARNING:
+*/
+
 
 SELECT *
 FROM layoffs_staging2;
